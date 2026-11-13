@@ -11,6 +11,14 @@ Every point contributes to bringing the flower to life. ♡
 
 ---
 
+## 💗 Graphical Representation
+
+### The final result
+
+![Sunflower made for Val](graphical-representation/sunflowercaption.png)
+
+---
+
 ## ✨ About the project
 
 The program reads geometric regions from a JSON file, extracts their contours, and converts their coordinates into positions on a Turtle canvas.
@@ -43,13 +51,17 @@ sunflowers-for-val/
 │
 ├── main.py
 ├── sunflowers.json
-└── README.md
+├── README.md
+│
+└── graphical-representation/
+    └── sunflowercaption.png
 ```
 
 | File | Description |
 |---|---|
 | `main.py` | Main script responsible for reconstructing the illustration. |
 | `sunflowers.json` | Contains the coordinates, contours, and RGB color data. |
+| `graphical-representation/sunflowercaption.png` | Screenshot of the final sunflower illustration. |
 | `README.md` | Project documentation. |
 
 ---
